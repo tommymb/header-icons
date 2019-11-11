@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+  background-color: #fff;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #d05c2e;
+  color: #fff;
+}
