@@ -19,7 +19,7 @@ img {
   display: flex;
 }
 
-header {
+div {
   display: flex;
   font-size: 2rem;
 }
@@ -30,6 +30,7 @@ nav li{
   display: flex;
   border: .5em solid #a63f38;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
   padding: 0;
+  align-items: center;
 }
