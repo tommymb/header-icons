@@ -28,7 +28,7 @@ nav li{
   font-size: 1.125rem;
   text-decoration: none;
   display: flex;
-  border: .5em solid #a63f38;
+  border: .1rem solid #a63f38;
   flex-direction: row;
   justify-content: space-around;
   padding: 0;
